@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/ClearGate-Int/swagger-UI_xss/main/xss-fetch.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/ClearGate-Int/swagger-UI_xss/main/xss-fetch.yaml",
+            "name": "XSS payload"
+        }
+    ]
+}
